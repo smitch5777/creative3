@@ -1,0 +1,38 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+  max-width: 80%;
+  height: auto;
+}
+.BallTriangle {
+  flex: 1;
+}
+body {
+  background-color: rgb(255, 211, 158);
+}
+h1,h2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    transition-duration: 0.2s;
+}
+button:hover {
+    background-color: #42170E;
+    color: white;
+  }
+button:active {
+  background-color: #926811
+}

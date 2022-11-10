@@ -29,6 +29,7 @@ const Fox = () => {
             <button class="duck-button" onClick={handleSubmit}>New Random Fox</button>
             <br></br>
             <DuckImg isLoading = {isLoading} imgsrc={imgsrc}/>
+            <footer>https://github.com/smitch5777/creative3</footer>
             </div> 
     )
     

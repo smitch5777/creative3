@@ -11,6 +11,7 @@ const Contact = () => {
       <img alt="Good duck" src="https://random-d.uk/api/160.jpg"></img>
       <img alt="Good fox" src="https://randomfox.ca/images/37.jpg"></img>
       <img alt="Good fox2" src="https://randomfox.ca/images/105.jpg"></img>
+      <footer>https://github.com/smitch5777/creative3</footer>
 
     </div>
     );
